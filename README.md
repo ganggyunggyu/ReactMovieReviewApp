@@ -57,3 +57,9 @@ https://github.com/ganggyunggyu/ReactMovieReviewApp/assets/56907263/77cdef04-a4b
 ### 다크모드 & 반응형
 
 https://github.com/ganggyunggyu/ReactMovieReviewApp/assets/56907263/0eb9f065-e4e5-4d73-a24c-24858ba7bcfc
+
+### 이미지 레이지 로딩 구현
+
+https://github.com/ganggyunggyu/ReactMovieReviewApp/assets/56907263/9cf868de-d6bb-411b-9782-28d50b06b63b
+
+
