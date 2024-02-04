@@ -40,14 +40,20 @@ Mongoose : 데이터베이스의 스키마 지정과 스키마간의 관계성�
 
 ### 회원가입
 
-![](https://github.com/ganggyunggyu/ReactMovieReviewApp/assets/56907263/e4f90ff9-ebd0-40db-a703-c3391eaeb6f3)
+https://github.com/ganggyunggyu/ReactMovieReviewApp/assets/56907263/439e9fb0-810a-4268-a3e2-eaedc8f858f6
 
 ### 로그인
 
+https://github.com/ganggyunggyu/ReactMovieReviewApp/assets/56907263/be9f04a3-59ce-47d4-9dd2-3347c64f27ab
+
 ### 검색
+
+https://github.com/ganggyunggyu/ReactMovieReviewApp/assets/56907263/f413b460-e610-47e6-a355-ddac975f3c6e
 
 ### 한줄평 작성
 
-### 타인의 평 보기
+https://github.com/ganggyunggyu/ReactMovieReviewApp/assets/56907263/77cdef04-a4bb-45d0-a1fe-25de1b72b35b
 
 ### 다크모드 & 반응형
+
+https://github.com/ganggyunggyu/ReactMovieReviewApp/assets/56907263/0eb9f065-e4e5-4d73-a24c-24858ba7bcfc
